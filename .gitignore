@@ -1,0 +1,14 @@
+.venv/
+backend/.venv/
+frontend/.venv/
+__pycache__/
+*.pyc
+.env
+*.log
+Data/not_used/
+Data/*.pdf
+Graduation_Project_L2.pdf
+OllamaSetup.exe
+requirement_backup.txt
+requirements_backup.txt
+env.env

@@ -1,0 +1,7 @@
+{
+  "embedding_model": "BAAI/bge-m3",
+  "collection": "laws",
+  "distance": "cosine",
+  "chunking": "بنية المواد والبنود، بحد أقصى 1200 حرف، بدون overlap",
+  "n_chunks": 473
+}
